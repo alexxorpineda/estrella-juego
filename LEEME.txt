@@ -1,0 +1,19 @@
+ESTRELLA juego - copia local
+
+Esta carpeta funciona sin Replit.
+
+Para jugar:
+1. Abre index.html, o
+2. Doble clic en ABRIR-JUEGO.command
+
+Para trabajar en el codigo:
+- El archivo principal es index.html.
+- Los modulos estan en public/js/.
+- main.js arranca el juego.
+- input.js controla teclado/movimiento.
+- player.js controla al jugador.
+- enemies.js, enemyAI.js y enemyRender.js controlan enemigos.
+- combat.js y spaceCombat.js controlan combate.
+- world.js, biomes.js y planets.js controlan mundo/planetas.
+
+No borres la carpeta public/js, porque index.html carga los modulos desde ahi.
